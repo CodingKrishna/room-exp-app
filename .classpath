@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/javaee.jar"/>
+	<classpathentry kind="lib" path="lib/mail-1.4.2.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.5-FINAL.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.7.0_51/jre/lib/rt.jar"/>
+	<classpathentry kind="lib" path="lib/itextpdf-5.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
